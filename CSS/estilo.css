@@ -1,0 +1,35 @@
+body {
+    background-color: lightsteelblue;
+}
+
+div {
+    background-color: green;
+}
+
+h1 {
+    color: gray;
+    font-size: 1cm;
+}
+
+form {
+    margin: 6cm;
+}
+
+#description1 {
+    color: gray;
+    padding-left: 30%;
+    padding-right: 30%;
+    font-size: 0.65cm;
+}
+
+img {
+	width: 20%;
+	height: 20%;
+}
+
+.sobre {
+    color: black;
+    padding-left: 30%;
+    padding-right: 30%;
+    font-size: 0.5cm;
+}
