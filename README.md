@@ -1,0 +1,2 @@
+# about_css
+Considerando a atividade HTML de apresentação, do dia 12 de março [https://classroom.google.com/u/0/c/NDM5NTE1MDI0NjNa/a/NjI1MDcwNTk5NjBa/details], crie um único arquivo de folhas de estilo (CSS) e aplique-o a todas as páginas HTML do projeto. Utilize obrigatoriamente diferentes tipos de seletores: por nome do elemento, pelo id e também pela classe. Envie o endereço de um novo repositório com o projeto atualizado.
